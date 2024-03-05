@@ -7,6 +7,7 @@ import Hero from "./components/Hero"
 import Navbar from "./components/Navbar"
 import Tools from "./components/Tools"
 import Trusted from "./components/Trusted"
+import Ways from "./components/Ways"
 import WorkTogether from "./components/WorkTogether"
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
       <Feature></Feature>
       <WorkTogether></WorkTogether>
       <Tools></Tools>
+      <Ways></Ways>
     </div>
   )
 }
