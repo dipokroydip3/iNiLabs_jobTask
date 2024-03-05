@@ -5,6 +5,7 @@
 import Feature from "./components/Feature"
 import Hero from "./components/Hero"
 import Navbar from "./components/Navbar"
+import Teams from "./components/Teams"
 import Tools from "./components/Tools"
 import Trusted from "./components/Trusted"
 import Ways from "./components/Ways"
@@ -21,6 +22,7 @@ function App() {
       <WorkTogether></WorkTogether>
       <Tools></Tools>
       <Ways></Ways>
+      <Teams></Teams>
     </div>
   )
 }
