@@ -5,6 +5,7 @@
 import Feature from "./components/Feature"
 import Hero from "./components/Hero"
 import Navbar from "./components/Navbar"
+import Tools from "./components/Tools"
 import Trusted from "./components/Trusted"
 import WorkTogether from "./components/WorkTogether"
 
@@ -17,6 +18,7 @@ function App() {
       <Trusted></Trusted>
       <Feature></Feature>
       <WorkTogether></WorkTogether>
+      <Tools></Tools>
     </div>
   )
 }
