@@ -4,6 +4,7 @@
 // import './App.css'
 import Hero from "./components/Hero"
 import Navbar from "./components/Navbar"
+import Trusted from "./components/Trusted"
 
 function App() {
 
@@ -11,6 +12,7 @@ function App() {
     <div>
       <Navbar></Navbar>
       <Hero></Hero>
+      <Trusted></Trusted>
     </div>
   )
 }
