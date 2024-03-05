@@ -15,10 +15,10 @@ const Navbar = () => {
                               <li>Pricing</li>
                         </ul>
                         <div className="flex gap-5">
-                              <ul className="flex gap-5 items-center text-lg font-semibold ">
+                              <ul className="flex gap-5 items-center text-lg  ">
                                     <li className="flex items-center "> <MdLanguage className="text-2xl" />EN</li>
-                                    <li>Contact</li>
-                                    <li>Sales</li>
+                                    <li>Contact Sales</li>
+                                    <li>Login</li>
                               </ul>
                               <button  className="bg-blue-600 flex items-center gap-2 text-white px-4 py-2 rounded-full">Sign up free<FaArrowRight/></button>
                         </div>
