@@ -4,8 +4,8 @@ import { SiVolvo } from "react-icons/si";
 
 const Trusted = () => {
       return (
-            <div>
-                  <p className="text-center py-5">Trusted by 45m+ users</p>
+            <div className="py-10">
+                  <p className="text-center pt-5">Trusted by 45m+ users</p>
                   <div className="flex px-12 flex-wrap justify-between list-none w-[1140px] m-auto items-center">
                         <SiWalmart className=" text-9xl" />
                         <SiCisco className=" text-6xl" />

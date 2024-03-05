@@ -3,7 +3,7 @@
 const Feature = () => {
       return (
             <div className="w-[1140px] px-5  m-auto">
-                  <h1 className="text-4xl font-semibold text-center py-10">Collaborate without <br /> constraints</h1>
+                  <h1 className="text-5xl font-bold text-center py-10">Collaborate without <br /> constraints</h1>
                   <div className="grid grid-cols-3 py-10 gap-16">
                         <div>
                               <h3 className="text-2xl font-semibold">Free forever</h3>

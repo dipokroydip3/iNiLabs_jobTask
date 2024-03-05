@@ -3,7 +3,7 @@ import { FaArrowRight } from "react-icons/fa6";
 
 const Ways = () => {
       return (
-            <div className="relative m-auto  w-9/12">
+            <div className="relative m-auto py-5  w-10/12">
                   <img className="m-auto w-full" src="https://i.ibb.co/dpQfNZX/f35490d1795865569180d6af1ca0ada1-removebg-preview.png" alt="" />
                   <div className="absolute text-center top-44 right-20 ">
                         <h2 className="text-2xl font-semibold">The Ways We Work</h2>
