@@ -3,6 +3,7 @@
 // import viteLogo from '/vite.svg'
 // import './App.css'
 import Feature from "./components/Feature"
+import Footer from "./components/Footer"
 import Hero from "./components/Hero"
 import Loved from "./components/Loved"
 import Navbar from "./components/Navbar"
@@ -27,6 +28,7 @@ function App() {
       <Teams></Teams>
       <WayWork></WayWork>
       <Loved></Loved>
+      <Footer></Footer>
     </div>
   )
 }
