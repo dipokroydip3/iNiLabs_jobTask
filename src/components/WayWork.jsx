@@ -4,8 +4,8 @@ import { FaArrowRight, FaCheck } from "react-icons/fa6";
 const WayWork = () => {
       return (
             <div className="w-10/12 m-auto py-10 ">
-                  <h1 className="text-5xl font-bold">Built for all kinds of teams</h1>
-                  <ul className="flex gap-10 items-center text-lg py-5">
+                  <h1 className="text-3xl lg:text-5xl text-[#050038] font-bold">Built for all kinds of teams</h1>
+                  <ul className="flex gap-10 flex-wrap items-center text-lg py-5">
                         <li className="hover:bg-purple-100 border py-1 px-3 transition duration-200 cursor-pointer rounded-full">UX & Design</li>
                         <li className="hover:bg-purple-100 border py-1 px-3 transition duration-200 cursor-pointer rounded-full">Marketing</li>
                         <li className="hover:bg-purple-100 border py-1 px-3 transition duration-200 cursor-pointer rounded-full">Product Management</li>
@@ -13,7 +13,7 @@ const WayWork = () => {
                         <li className="hover:bg-purple-100 border py-1 px-3 transition duration-200 cursor-pointer rounded-full">Consultants</li>
                         <li className="hover:bg-purple-100 border py-1 px-3 transition duration-200 cursor-pointer rounded-full">Agile Coaches</li>
                   </ul>
-                  <div className="grid grid-cols-4 gap-10">
+                  <div className="grid grid-cols-1 lg:grid-cols-4 gap-10">
                         <div className="col-span-1 text-gray-400 space-y-5 mt-6">
                               <div className="flex items-center gap-2">
                                     <FaCheck />

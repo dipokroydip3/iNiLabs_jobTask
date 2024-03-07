@@ -25,8 +25,8 @@ function App() {
       <WorkTogether></WorkTogether>
       <Tools></Tools>
       <Ways></Ways>
-      <Teams></Teams>
       <WayWork></WayWork>
+      <Teams></Teams>
       <Loved></Loved>
       <Footer></Footer>
     </div>
